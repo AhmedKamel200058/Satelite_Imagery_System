@@ -50,8 +50,11 @@ Forests are vital for ecological balance, but deforestation, climate change, and
 Here is an example of the AI model detecting trees from satellite imagery:
 
 ### Image Example
-![Tree Detection Example](Images/Output_model_image)
+![Tree Detection Example](Images/Output_model_image/tree_detection_example.png)
 
+### Demo Video
+
+[Watch the video]([https://drive.google.com/file/d/<file-id>/view?usp=sharing](https://drive.google.com/file/d/1gBsj8EGIw8kcnAXdcxiSJk2Hm7WgZHAN/view?usp=drive_link))
 
 
 
