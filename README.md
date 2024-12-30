@@ -49,15 +49,45 @@ Forests are vital for ecological balance, but deforestation, climate change, and
 
 ---
 
+## 📚 How to Use  
+
+### Prerequisites  
+Before you get started, ensure you have the following:  
+- 🐍 Python 3.8 or later installed.  
+- 📦 Required Python libraries (listed in `requirements.txt`).  
+- 🔧 Access to a dataset of satellite imagery (optional for testing).  
+- 🌐 An active internet connection for accessing the web application.  
+
+### 🛠️ Setup and Installation  
+
+1. Clone the Repository:  
+   ```bash
+   git clone https://github.com/AhmedKamel200058/Satelite_Imagery_System.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Download AI Model Weights:
+   
+   Place the pre-trained YOLOv8 model weights in the directory named best.pt.
+   
+4. Run the application:
+   ```bash
+   python app.py
+   ```
+5. Access the Application:
+   ```bash
+   Open your browser and go to http://127.0.0.1:5000/ to view the web interface.
+   ```
+---
 ## 🗺️ Implementation Plan  
 
 1. 📥 **Data Collection**: Gather satellite imagery data for forests.  
 2. 🧠 **AI Model Training**: Develop a machine learning model for tree detection.  
 3. 🌐 **Web Application Development**: Integrate the model into a Flask-based web app with real-time monitoring and dashboard features.  
-4. 🌍 **Deployment**: Host the application for users to access.  
+4. 🌍 **Deployment**: Host the application for users to access.
 
 ---
-
 ## 🖼️ Visual Model Summary  
 
 Here is an example of the AI model detecting trees from satellite imagery:  
