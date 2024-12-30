@@ -32,9 +32,11 @@ Forests are vital for ecological balance, but deforestation, climate change, and
 ## 🛠️ Tools & Technologies  
 
 ### ⚙️ Deep Learning Model:  
-- 🌟 **YOLOv8**  
+- 🐍 **Python**
+- 🌟 **YOLOv8**
 - 🖼️ **OpenCV**  
-- 📊 **Matplotlib**  
+- 📊 **Matplotlib**
+
 
 ### 💻 Frontend:  
 - 🖌️ Web technologies for an intuitive user interface (HTML, CSS).  
